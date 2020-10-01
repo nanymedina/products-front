@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product should show product information with discount 1`] = `
+<div
+  data-testid="product"
+>
+  <img
+    alt="product-123"
+    src="svg/image"
+  />
+  <div>
+    <div>
+      <strong>
+        brand
+      </strong>
+      <span>
+        description
+      </span>
+    </div>
+    <div>
+      <div>
+        <span>
+          $10
+        </span>
+        <span>
+          50%
+        </span>
+      </div>
+      <span>
+        $20
+      </span>
+    </div>
+  </div>
+  <button
+    data-testid="button"
+    type="button"
+  >
+    <strong>
+      Agregar
+    </strong>
+  </button>
+</div>
+`;
+
+exports[`Product should show product information without discount 1`] = `
+<div
+  data-testid="product"
+>
+  <img
+    alt="product-123"
+    src="svg/image"
+  />
+  <div>
+    <div>
+      <strong>
+        brand
+      </strong>
+      <span>
+        description
+      </span>
+    </div>
+    <div>
+      <div>
+        <span>
+          $20
+        </span>
+      </div>
+    </div>
+  </div>
+  <button
+    data-testid="button"
+    type="button"
+  >
+    <strong>
+      Agregar
+    </strong>
+  </button>
+</div>
+`;

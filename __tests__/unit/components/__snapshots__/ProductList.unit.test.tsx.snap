@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product List should show product list 1`] = `
+<div
+  class="container"
+  data-testid="product-list"
+>
+  <div
+    data-testid="product"
+  >
+    <img
+      alt="product-123"
+      src="svg/image"
+    />
+    <div>
+      <div>
+        <strong>
+          brand
+        </strong>
+        <span>
+          description
+        </span>
+      </div>
+      <div>
+        <div>
+          <span>
+            $20
+          </span>
+        </div>
+      </div>
+    </div>
+    <button
+      data-testid="button"
+      type="button"
+    >
+      <strong>
+        Agregar
+      </strong>
+    </button>
+  </div>
+  <div
+    data-testid="product"
+  >
+    <img
+      alt="product-456"
+      src="svg/image"
+    />
+    <div>
+      <div>
+        <strong>
+          brand
+        </strong>
+        <span>
+          description
+        </span>
+      </div>
+      <div>
+        <div>
+          <span>
+            $20
+          </span>
+        </div>
+      </div>
+    </div>
+    <button
+      data-testid="button"
+      type="button"
+    >
+      <strong>
+        Agregar
+      </strong>
+    </button>
+  </div>
+</div>
+`;

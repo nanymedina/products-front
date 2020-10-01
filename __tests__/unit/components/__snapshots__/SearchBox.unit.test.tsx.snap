@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search Box should show search box with placeholder 1`] = `
+<input
+  data-testid="search-box"
+  placeholder="placeholder"
+  type="text"
+/>
+`;
+
+exports[`Search Box should show search box without placeholder 1`] = `
+<input
+  data-testid="search-box"
+  type="text"
+/>
+`;

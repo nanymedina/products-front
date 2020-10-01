@@ -1,0 +1,10 @@
+version: '3.5'
+services:
+  front-app:
+    build: .
+    image: store-front:latest
+    container_name: store-front-local
+    ports:
+      - '3000:3000'
+    environment:
+      - PORT=3000

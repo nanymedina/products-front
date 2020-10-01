@@ -1,0 +1,519 @@
+{
+  "data": {
+    "getProducts": [
+      {
+        "id": 1,
+        "brand": "ooy eqrceli",
+        "description": "rlñlw brhrka",
+        "image": "whiteLineIcon.svg",
+        "price": 498724,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 2,
+        "brand": "dsaasd",
+        "description": "zlrwax bñyrh",
+        "image": "babyIcon.svg",
+        "price": 130173,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 3,
+        "brand": "weñxoab",
+        "description": "hqhoy qacirk",
+        "image": "homeIcon.svg",
+        "price": 171740,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 4,
+        "brand": "sjlzxeo",
+        "description": "pnyn rlxbewnk",
+        "image": "computerIcon.svg",
+        "price": 890348,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 5,
+        "brand": "peuoooypt",
+        "description": "trcwl iagxxh",
+        "image": "whiteLineIcon.svg",
+        "price": 814893,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 6,
+        "brand": "ñuo onfbtya",
+        "description": "vangde oswss",
+        "image": "homeIcon.svg",
+        "price": 468750,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 7,
+        "brand": "wiñ nvnactr",
+        "description": "nkhux ztdnct",
+        "image": "bicycleIcon.svg",
+        "price": 472543,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 8,
+        "brand": "sfzkvoñ",
+        "description": "hdvt tbrdeiñl",
+        "image": "tvIcon.svg",
+        "price": 428894,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 9,
+        "brand": "nzo acrrñvh",
+        "description": "ahelf lxhñep",
+        "image": "tvIcon.svg",
+        "price": 29530,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 10,
+        "brand": "adsfsda",
+        "description": "dñqy ipvukesh",
+        "image": "smartphoneIcon.svg",
+        "price": 691504,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 11,
+        "brand": "iñmfdpd",
+        "description": "fqfwt ikpxov",
+        "image": "gamesIcon.svg",
+        "price": 533752,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 12,
+        "brand": "vfbjgpt",
+        "description": "iwpazñ ltxsh",
+        "image": "tvIcon.svg",
+        "price": 647307,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 13,
+        "brand": "breizhf",
+        "description": "dquyja crdgj",
+        "image": "computerIcon.svg",
+        "price": 918745,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 14,
+        "brand": "dcc gdodkñg",
+        "description": "odrnuh ixdta",
+        "image": "smartphoneIcon.svg",
+        "price": 643123,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 15,
+        "brand": "ckyprmg",
+        "description": "ñlagjl rnkmt",
+        "image": "bedRoomIcon.svg",
+        "price": 953318,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 16,
+        "brand": "fqqejoy",
+        "description": "thyh mpzxgwnw",
+        "image": "gamesIcon.svg",
+        "price": 525834,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 17,
+        "brand": "cni tñcapdx",
+        "description": "lzqf rkhusibs",
+        "image": "gamesIcon.svg",
+        "price": 235494,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 18,
+        "brand": "asdfdsa",
+        "description": "zdczs omedat",
+        "image": "smartphoneIcon.svg",
+        "price": 849666,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 19,
+        "brand": "ñhm pcjpemc",
+        "description": "ñnkak giehcj",
+        "image": "homeIcon.svg",
+        "price": 868855,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 20,
+        "brand": "auc fjbkjyd",
+        "description": "tdge lbcakogp",
+        "image": "bedRoomIcon.svg",
+        "price": 843751,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 21,
+        "brand": "hai jabwbsp",
+        "description": "hcpqws jyufm",
+        "image": "tvIcon.svg",
+        "price": 829806,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 22,
+        "brand": "vhg aowurdr",
+        "description": "pqfqtr ybmiq",
+        "image": "bicycleIcon.svg",
+        "price": 933254,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 23,
+        "brand": "dasad",
+        "description": "zyss vmcñvzwt",
+        "image": "bedRoomIcon.svg",
+        "price": 185387.5,
+        "oldPrice": 370775,
+        "discountRate": 50
+      },
+      {
+        "id": 24,
+        "brand": "fzpusgc",
+        "description": "jnrojo tjcja",
+        "image": "homeIcon.svg",
+        "price": 669045,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 25,
+        "brand": "soiayxr",
+        "description": "oftetv sxgwl",
+        "image": "toysIcon.svg",
+        "price": 912974,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 26,
+        "brand": "ofojjctj",
+        "description": "ñwylwi yktiq",
+        "image": "homeIcon.svg",
+        "price": 989405,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 27,
+        "brand": "soiayxr",
+        "description": "aeecg nfrieh",
+        "image": "toysIcon.svg",
+        "price": 154070,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 28,
+        "brand": "aio efyubfx",
+        "description": "zymart xqisc",
+        "image": "bicycleIcon.svg",
+        "price": 691783,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 29,
+        "brand": "dsafasd",
+        "description": "zlrwax bñyrh",
+        "image": "furnitureIcon.svg",
+        "price": 756135,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 30,
+        "brand": "ñszuqiq",
+        "description": "pqln spqwnrgy",
+        "image": "smartphoneIcon.svg",
+        "price": 571646,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 31,
+        "brand": "soiayxr",
+        "description": "mfys ubrkojpñ",
+        "image": "electronicsIcon.svg",
+        "price": 339320,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 32,
+        "brand": "htvjwbo",
+        "description": "njñw xwynñhkc",
+        "image": "computerIcon.svg",
+        "price": 426814,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 33,
+        "brand": "mpg kthroip",
+        "description": "cixd vrojdkyt",
+        "image": "toysIcon.svg",
+        "price": 512936,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 34,
+        "brand": "ñszuqiq",
+        "description": "umaee kbtygd",
+        "image": "tvIcon.svg",
+        "price": 931586,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 35,
+        "brand": "zlxalyn",
+        "description": "echqi xpñqdu",
+        "image": "toysIcon.svg",
+        "price": 290926,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 36,
+        "brand": "adda",
+        "description": "tblb uñccrvup",
+        "image": "bedRoomIcon.svg",
+        "price": 813504,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 37,
+        "brand": "cni tñcapdx",
+        "description": "blthh nnuezs",
+        "image": "furnitureIcon.svg",
+        "price": 752153,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 38,
+        "brand": "lkq fqvlwia",
+        "description": "nbbd pzpvxgev",
+        "image": "babyIcon.svg",
+        "price": 818318,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 39,
+        "brand": "ñljtzes",
+        "description": "avgpj gbyoñt",
+        "image": "toysIcon.svg",
+        "price": 500,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 40,
+        "brand": "adfda",
+        "description": "znxnñm wymew",
+        "image": "smartphoneIcon.svg",
+        "price": 391010,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 41,
+        "brand": "aio efyubfx",
+        "description": "ljñkv bmfwuq",
+        "image": "gamesIcon.svg",
+        "price": 624491,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 42,
+        "brand": "sadfdas",
+        "description": "nkhux ztdnct",
+        "image": "toysIcon.svg",
+        "price": 531691,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 43,
+        "brand": "lkdznamm",
+        "description": "ugis modjhltc",
+        "image": "toysIcon.svg",
+        "price": 501528,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 44,
+        "brand": "akh flnzgbj",
+        "description": "hkko rpeamwyf",
+        "image": "bedRoomIcon.svg",
+        "price": 227901,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 46,
+        "brand": "dsasd",
+        "description": "muqn qblmiklf",
+        "image": "furnitureIcon.svg",
+        "price": 65676,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 45,
+        "brand": "fumgxfd",
+        "description": "geblup hhotp",
+        "image": "homeIcon.svg",
+        "price": 230491,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 48,
+        "brand": "zan wovdrnb",
+        "description": "gocut qmjlzf",
+        "image": "smartphoneIcon.svg",
+        "price": 480752,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 47,
+        "brand": "tig sfzfqqe",
+        "description": "dquyja crdgj",
+        "image": "babyIcon.svg",
+        "price": 503220,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 49,
+        "brand": "gskkmqf",
+        "description": "echqi xpñqdu",
+        "image": "whiteLineIcon.svg",
+        "price": 308688,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 50,
+        "brand": "xhy dhzñffq",
+        "description": "scpñ gfwyxggd",
+        "image": "electronicsIcon.svg",
+        "price": 216596,
+        "oldPrice": null,
+        "discountRate": null
+      },
+      {
+        "id": 97,
+        "brand": "dasad",
+        "description": "ctwod aewñte",
+        "image": "electronicsIcon.svg",
+        "price": 383601,
+        "oldPrice": 767202,
+        "discountRate": 50
+      },
+      {
+        "id": 225,
+        "brand": "dasad",
+        "description": "smxnm qbbdlh",
+        "image": "smartphoneIcon.svg",
+        "price": 28860,
+        "oldPrice": 57720,
+        "discountRate": 50
+      },
+      {
+        "id": 431,
+        "brand": "dasad",
+        "description": "ypkkmh veghf",
+        "image": "bicycleIcon.svg",
+        "price": 117218,
+        "oldPrice": 234436,
+        "discountRate": 50
+      },
+      {
+        "id": 559,
+        "brand": "dasad",
+        "description": "jjkfac adubt",
+        "image": "bicycleIcon.svg",
+        "price": 9964,
+        "oldPrice": 19928,
+        "discountRate": 50
+      },
+      {
+        "id": 1399,
+        "brand": "dasad",
+        "description": "ikejc osddak",
+        "image": "toysIcon.svg",
+        "price": 246861,
+        "oldPrice": 493722,
+        "discountRate": 50
+      },
+      {
+        "id": 2324,
+        "brand": "dasad",
+        "description": "egmpqg iwbvf",
+        "image": "furnitureIcon.svg",
+        "price": 3482.5,
+        "oldPrice": 6965,
+        "discountRate": 50
+      },
+      {
+        "id": 2697,
+        "brand": "dasad",
+        "description": "pnyn rlxbewnk",
+        "image": "smartphoneIcon.svg",
+        "price": 195270.5,
+        "oldPrice": 390541,
+        "discountRate": 50
+      }
+    ]
+  }
+}
